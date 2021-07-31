@@ -1,0 +1,11 @@
+C:/Users/kayod/Desktop/Flutter/KDMedia_Official/italy/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/kayod/Desktop/Flutter/KDMedia_Official/italy/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/kayod/Desktop/Flutter/KDMedia_Official/italy/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/kayod/Desktop/Flutter/KDMedia_Official/italy/build/windows/runner/Debug/data/flutter_assets/assets/australia.json
+C:/Users/kayod/Desktop/Flutter/KDMedia_Official/italy/build/windows/runner/Debug/data/flutter_assets/assets/italia.json
+C:/Users/kayod/Desktop/Flutter/KDMedia_Official/italy/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/kayod/Desktop/Flutter/KDMedia_Official/italy/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/kayod/Desktop/Flutter/KDMedia_Official/italy/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/kayod/Desktop/Flutter/KDMedia_Official/italy/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/kayod/Desktop/Flutter/KDMedia_Official/italy/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/kayod/Desktop/Flutter/KDMedia_Official/italy/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
